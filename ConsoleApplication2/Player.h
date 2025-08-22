@@ -2,12 +2,14 @@
 #include <string>
 using namespace std;
 
+
 class Player 
 {
 public:
     Player(string nickname);
 
     virtual void attack() = 0;
+
     void printPlayerStatus();
 
     // getter ÇÔ¼ö
