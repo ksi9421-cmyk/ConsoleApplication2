@@ -1,4 +1,4 @@
-﻿#include <iostream>
+﻿#include <iostream>    //도전기능 작성중입니다..
 #include "player.h"
 #include "warrior.h"
 #include "magician.h"
@@ -52,5 +52,5 @@ int main()
 
     delete player;
 
-    return 0;
+    return 0;    
 }
